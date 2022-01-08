@@ -1,0 +1,22 @@
+.confirm-wrapper {
+  text-align: center;
+}
+
+.greet-msg {
+  margin-bottom: 0.5rem;
+}
+
+.success-msg {
+  color: green;
+  margin-bottom: 0.5rem;
+}
+
+.tick {
+  display: inline-block;
+  height: 30px;
+  width: 30px;
+}
+
+.info-msg {
+  margin-bottom: 0.5rem;
+}
